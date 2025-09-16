@@ -1,4 +1,4 @@
-# HACKNEAREST 2023 – PSG College of Technology
+# HACKNEAREST 2025 – PSG College of Technology
 
 This repository contains solutions for the HACKNEAREST hackathon conducted by the AMCS department at PSG College of Technology.
 
